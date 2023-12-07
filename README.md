@@ -2,7 +2,7 @@
 ```bash
 $ cp .env.example .env
 ```
-Add POSTMARK_FROM_EMAIL and POSTMARK_FROM_EMAIL values to .env file
+Add POSTMARK_FROM_EMAIL and POSTMARK_API_TOKEN values to .env file
 
 
 ## Installation
